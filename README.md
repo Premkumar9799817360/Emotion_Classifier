@@ -1,4 +1,4 @@
- Live - https://premkumar9799817360-emotion-classifier-app-1xoq7i.streamlit.app/
+ Live -https://premkumar-emotion-classifier-app.streamlit.app/
 
 # EMOTION CLASSIFIER
 ![Screenshot (35)](https://github.com/Premkumar9799817360/Emotion_Classifier/assets/83695512/62a3fb4a-df70-453b-ad81-cd4dcc846fde)
